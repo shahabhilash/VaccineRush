@@ -42,4 +42,4 @@ A simple endless runner game built using Unity where the player controls an inje
 
 ## 👨‍💻 Author
 
-Developed by **Abhilash Shah**
+Developed by *Abhilash Shah*
